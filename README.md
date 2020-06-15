@@ -3,4 +3,4 @@
 Some text 
 
 
-# # Next up: Git Branching
+ ## Next up: Git Branching
